@@ -26,7 +26,8 @@
     "gistest.niwa.co.nz",
     "arcedevportal.niwa.local",
     "services.arcgis.com",
-    "services3.arcgis.com"
+    "services3.arcgis.com",
+    "https://inspiring-hummingbird-26773e.netlify.app"
   ],
   "title": "Trendy-SCENZ",
   "subtitle": "<div class=\"attribute-custom-style\"><font size=\"5\">Linear trends (July-2002 to August 2023)</font></div>",
