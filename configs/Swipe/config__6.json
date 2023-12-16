@@ -1,0 +1,24 @@
+{
+  "style": "vertical",
+  "layerState": {
+    "TSS_Trends_5839": {
+      "selected": true
+    },
+    "18c55f91f62-layer-2": {
+      "selected": true
+    },
+    "18c5a9f44e7-layer-4": {
+      "selected": true
+    },
+    "18c56565e80-layer-3": {
+      "selected": true
+    }
+  },
+  "layer": "TSS_Trends_5839",
+  "isZoom": false,
+  "handleColor": "#dadada",
+  "layerMode": "single",
+  "defaultLayers": [],
+  "invertPlacement": false,
+  "isHidePanel": false
+}

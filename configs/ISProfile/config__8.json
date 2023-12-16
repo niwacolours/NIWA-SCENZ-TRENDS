@@ -1,0 +1,74 @@
+{
+  "gis.niwa.co.nz/raster/rest/services/TSS_senSlopeP/ImageServer": {
+    "hasOverlap": true,
+    "hasNDVI": false,
+    "ndvi": false,
+    "ndmi": false,
+    "urban": false,
+    "yAxisLabel": "Data Values",
+    "bandCount": 1,
+    "bandNames": [
+      "Band_1"
+    ],
+    "field": "StdTime",
+    "category": "Category",
+    "nirIndex": null,
+    "redIndex": null,
+    "swirIndex": null,
+    "title": "TSS_senSlopeP"
+  },
+  "gis.niwa.co.nz/raster/rest/services/TSS_Trends/ImageServer": {
+    "hasOverlap": true,
+    "hasNDVI": false,
+    "ndvi": false,
+    "ndmi": false,
+    "urban": false,
+    "yAxisLabel": "Data Values",
+    "bandCount": 1,
+    "bandNames": [
+      "Band_1"
+    ],
+    "field": "StdTime",
+    "category": "Category",
+    "nirIndex": null,
+    "redIndex": null,
+    "swirIndex": null,
+    "title": "TSS_senSlope"
+  },
+  "gis.niwa.co.nz/raster/rest/services/TSS_senSlopeL/ImageServer": {
+    "hasOverlap": false,
+    "hasNDVI": false,
+    "ndvi": false,
+    "ndmi": false,
+    "urban": false,
+    "yAxisLabel": "Data Values",
+    "bandCount": 1,
+    "bandNames": [
+      ""
+    ],
+    "field": "",
+    "category": "Category",
+    "nirIndex": null,
+    "redIndex": null,
+    "swirIndex": null,
+    "title": "TSS_senSlopeL"
+  },
+  "gis.niwa.co.nz/raster/rest/services/CHL_senSlope/ImageServer": {
+    "hasOverlap": true,
+    "hasNDVI": false,
+    "ndvi": false,
+    "ndmi": false,
+    "urban": false,
+    "yAxisLabel": "Data Values",
+    "bandCount": 1,
+    "bandNames": [
+      ""
+    ],
+    "field": "StdTime",
+    "category": "Category",
+    "nirIndex": null,
+    "redIndex": null,
+    "swirIndex": null,
+    "title": "CHL_senSlope"
+  }
+}

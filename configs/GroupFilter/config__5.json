@@ -1,0 +1,90 @@
+{
+  "groups": [
+    {
+      "name": "Period",
+      "desc": "",
+      "operator": "LIKE",
+      "defaultVal": "Year: Overall",
+      "appendSameLayer": true,
+      "appendSameLayerConjunc": "OR",
+      "caseSearch": false,
+      "layers": [
+        {
+          "layer": "TSS_Trends_5839",
+          "field": "Period",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        },
+        {
+          "layer": "18c55f91f62-layer-2",
+          "field": "Period",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        },
+        {
+          "layer": "18c56565e80-layer-3",
+          "field": "Period",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        },
+        {
+          "layer": "18c5a9f44e7-layer-4",
+          "field": "Period",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        },
+        {
+          "layer": "18c5ab15ab7-layer-5",
+          "field": "Period",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        },
+        {
+          "layer": "18c5ab19388-layer-6",
+          "field": "Period",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        },
+        {
+          "layer": "18c5ab22470-layer-7",
+          "field": "Period",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        },
+        {
+          "layer": "18c5ab308dc-layer-8",
+          "field": "Period",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        },
+        {
+          "layer": "18c5ab5493f-layer-9",
+          "field": "Period",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        },
+        {
+          "layer": "18c5ab550bd-layer-10",
+          "field": "Period",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        },
+        {
+          "layer": "18c5ab55639-layer-11",
+          "field": "Period",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        },
+        {
+          "layer": "18c5ab5b447-layer-12",
+          "field": "Period",
+          "dataType": "esriFieldTypeString",
+          "useDomain": ""
+        }
+      ]
+    }
+  ],
+  "persistOnClose": true,
+  "slAppendChoice": "OR",
+  "headerText": "Select a Group to Filter"
+}
