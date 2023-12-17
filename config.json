@@ -95,7 +95,7 @@
         "closeable": true,
         "uri": "widgets/GroupFilter/Widget",
         "openAtStart": true,
-        "label": "Date Filter: Select the period or period range to load (Month: 01-12; Season: Sum, Aut, Win, Apr; Year: Overall). Filter is persistent across all layers when closed. Other dependant widgets (\"Selector\", \"Swipe\", \"Profile\").",
+        "label": "Date Filter: Select the period or period range to load (Month: 01-12; Season: Sum, Aut, Win, Spr; Year: Overall). Filter is persistent across all layers when closed. Other dependant widgets (\"Selector\", \"Swipe\", \"Profile\").",
         "config": "configs/GroupFilter/config__5.json"
       },
       {
